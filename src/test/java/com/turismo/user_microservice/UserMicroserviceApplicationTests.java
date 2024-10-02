@@ -1,4 +1,4 @@
-package com.example.user_microservice;
+package com.turismo.user_microservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.user_microservice;
+package com.turismo.user_microservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
